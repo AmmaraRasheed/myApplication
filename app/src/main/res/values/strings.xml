@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">WhatsappTask</string>
+    <string name="delete">delete</string>
+    <string name="no_item">no</string>
+    <string name="country">country</string>
+    <string name="capital">capital</string>
+    <string name="area">area</string>
+    <string-array name="countries_name">
+        <item>Brunei</item>
+        <item>Cambodia</item>
+        <item>East Timor</item>
+        <item>Indonesia</item>
+        <item>Laos</item>
+        <item>Malaysia</item>
+        <item>Myanmar</item>
+        <item>Philippines</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string-array name="countries_area">
+        <item>5,765</item>
+        <item>181,035</item>
+        <item>14,874</item>
+        <item>1,904,569</item>
+        <item>236,800</item>
+        <item>329,847</item>
+        <item>676,000</item>
+        <item>342,353</item>
+        <item>724</item>
+        <item>513,120</item>
+        <item>331,210</item>
+    </string-array>
+
+    <string-array name="countries_capital">
+        <item>Bandar Seri Begawan</item>
+        <item>Phnom Penh</item>
+        <item>Dili</item>
+        <item>Jakarta</item>
+        <item>Vientiane</item>
+        <item>Kuala Lumpur</item>
+        <item>Nay Pyi Daw</item>
+        <item>Manila</item>
+        <item>Singapore</item>
+        <item>Bangkok</item>
+        <item>Hanoi</item>
+    </string-array>
+
+    <integer-array name="countries_flags">
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>]
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+        <item>@drawable/placehldr</item>
+
+    </integer-array>
+</resources>
